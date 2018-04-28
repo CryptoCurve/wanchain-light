@@ -4,11 +4,24 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #2ad4dc;
 }
 
 .capitalize {
   text-transform:capitalize;
+}
+
+.navbar-inverse {
+  background-color:black !important;
+}
+
+.navbar .btn {
+  padding-top:2px !important;
+}
+
+.btn-default {
+  background-color:white !important;
+  border-color: transparent !important;
 }
 
 pre {
